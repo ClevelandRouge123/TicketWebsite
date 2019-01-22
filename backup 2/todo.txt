@@ -1,0 +1,12 @@
+PHP website project
+home page - funky all in one scroll - see uidesignpatterns for ideas
+about, show api's 
+tickets - show functionality with php and refinement searching
+
+to do list:
+
+- main design
+- on session timeout logout user
+- create header page and import rather than have it on each page
+- go through log in and ensure it is understood
+- redesign the login page 

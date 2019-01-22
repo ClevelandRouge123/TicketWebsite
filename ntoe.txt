@@ -1,0 +1,36 @@
+192.168.1.137PostgreSQL
+   Database name: fusionpbx
+   Database username: fusionpbx
+   Database password: 5SHSFDjhiwEGsg0LkBbVfWCWbvM=
+
+Complete the install by by going to the IP address of this server
+in your web browser or with a domain name for this server.
+   https://192.168.1.137
+
+
+http://interactjs.io/
+
+Tables: 
+
+T_Contact
+T_Tickets
+T_Artists
+T_scheduled_tickets
+
+
+Search tickets
+choose tickets
+Customer info
+Confirm and pay
+
+send email to confirm
+add relevat customer information to database and 
+
+ticket_uuid
+tickets_name
+tickets_remaining
+tickets_sold
+tickets_total
+tickets_description
+tickets_location
+							echo "</div'>";					
